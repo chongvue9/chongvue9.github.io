@@ -1,0 +1,62 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color:  #665544;
+
+}
+
+h1 { 
+		font-size: 2em;
+		font-style: sans-serif;
+		color: blue;
+      text-align: center;
+
+ }
+
+body {
+	width: 700px;
+	margin: 0 auto;
+
+}
+
+ nav {
+ 	background-color: gold;
+ 	padding: 10px;
+ 	margin:  10px;
+   text-align: center;
+
+ }
+
+ li {
+ 	display: inline;
+ 	padding: 5px;
+
+ }
+
+ section {
+ 	overflow: auto;
+ 	height: 100%;
+
+ }
+
+ main {
+ 	background-color: gold;
+ 	padding: 10px;
+ 	margin: 10px;
+   font-size: 1.5em;
+
+ }
+
+ article {
+ 	background-color: gold;
+ 	padding: 20px;
+ 	margin: 10px;
+ 	width: 280px;
+ 	float: left;
+
+ }
+
+ footer {
+ 	background-color: gold;
+ 	padding: 10px;
+ 	margin: 10px;
+ }
